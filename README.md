@@ -1,0 +1,1 @@
+***A mini Web Application built with pure Django with features including login/registeration, profile for staff and studens, graphical test Reports, Staffs assigning assigments, etc ...***
